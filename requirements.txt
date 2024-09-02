@@ -1,0 +1,13 @@
+matplotlib==3.5.3
+nibabel==3.2.2
+nibabel==4.0.2
+nilearn==0.10.0
+numpy==1.21.6
+prettytable==3.11.0
+scikit_learn==1.0.2
+scipy==1.7.3
+torch==1.10.1+cu113
+torch==1.12.1
+torchsummary==1.5.1
+torchvision==0.11.2+cu113
+tqdm==4.64.0
