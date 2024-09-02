@@ -2,11 +2,11 @@
 Bimodality Approach to Mental Disorder Diagnosis via Dual-pathway Fusion Perceptual Network
 
 ## Catalogues
-1. [Introduction](##Introduction)
-2. [Requirements](##Requirements)
-3. [Datas](##Datas)
-4. [How to use](##Howtouse)
-5. [Contact Us](##ContactUs)
+1. [Introduction](#Introduction)
+2. [Requirements](#Requirements)
+3. [Datas](#Datas)
+4. [How to use](#Howtouse)
+5. [Contact Us](#ContactUs)
 
 ## Introduction
 We proposed a dual-pathway fusion perceptual (DP-FP) network that leverages multi-stage attentional perception, effectively distin guishing psychiatric disorder patients from healthy controls. 
